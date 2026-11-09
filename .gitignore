@@ -6,3 +6,5 @@ __pycache__/
 *.docx
 profile.json
 output/
+Instructions.md
+README.md

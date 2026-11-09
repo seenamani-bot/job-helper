@@ -1,0 +1,5 @@
+# Libraries the project needs.
+pypdf
+python-docx
+openai
+python-dotenv
